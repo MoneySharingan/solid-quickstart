@@ -33,6 +33,7 @@ export default function Root() {
           </ErrorBoundary>
         </Suspense>
         <Scripts />
+        <h1>hello</h1>
       </Body>
     </Html>
   );
